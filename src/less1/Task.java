@@ -51,7 +51,6 @@ public class Task {
   public static void six(Scanner sc) {
     System.out.print("less1.Task #6\nEnter a number: ");
     int a = sc.nextInt();
-5
     if (a == 0)
       System.out.println("Zero number");
     else if (a > 0 && a % 2 == 0)
