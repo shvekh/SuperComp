@@ -1,8 +1,15 @@
 package less2;
 
-public class Cat {
+public class Cat extends Animal {
   String name;
   String breed;
+  public Cat(String name, String breed, String food, String location){
+    this.food = food;
+    this.location = location;
+    this.name = name;
+    this.breed = breed;
+
+  }
 
   public void makeNoise(){
     System.out.println("Meow");
