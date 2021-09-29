@@ -1,4 +1,4 @@
-package less2;
+package less2.Animal;
 
 public class Vetirinar{
   public static void main(String[] mss) {

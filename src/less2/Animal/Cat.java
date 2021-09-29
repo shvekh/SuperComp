@@ -1,4 +1,6 @@
-package less2;
+package less2.Animal;
+
+import less2.Animal.Animal;
 
 public class Cat extends Animal {
   String name;

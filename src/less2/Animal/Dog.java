@@ -1,6 +1,8 @@
-package less2;
+package less2.Animal;
 
-public class Dog extends Animal{
+import less2.Animal.Animal;
+
+public class Dog extends Animal {
   String name;
   String breed;
   public Dog(String name, String breed, String food, String location){

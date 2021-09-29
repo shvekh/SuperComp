@@ -1,4 +1,4 @@
-package less2;
+package less2.Animal;
 
 public class Animal {
   String food;
