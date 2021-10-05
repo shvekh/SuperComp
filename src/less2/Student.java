@@ -13,6 +13,7 @@ public class Student {
     for (Student i : all)
       System.out.println(i.getScholarship());
 
+
   }
 
   public Student(String firstName, String lastName, String group, double averageMark) {
