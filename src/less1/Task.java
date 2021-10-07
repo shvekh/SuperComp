@@ -33,6 +33,7 @@ public class Task {
     System.out.println(a);
   }
 
+
   public static void five(Scanner sc) {
     System.out.println("less1.Task #5\nEnter three number: ");
     int d = sc.nextInt();
