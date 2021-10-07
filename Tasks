@@ -64,3 +64,21 @@ Car:
 Создать производный от Car класс - SportCar, характеризуемый также предельной скоростью start(), stop().
 Метод start - выводит на экран «SportCar поехал», метод stop - «SportCar остановился».
 
+Task4
+
+less4
+1.
+Создать базовый класс Animal с полями:
+private boolean vegetarian;
+private String eats;
+private int noOflegs;
+На его основе создать подкласс Cat с полями суперкласса и private String color.
+2.
+Cоздать базовый класс less4.Building.Building. На его основе создать подклассы: House,School,Library,Supermarket.
+3.
+Cоздать базовый класс Horse. На его основе создать подклассы: Zebra,Donkey,Pegasus.
+4.
+Cоздать базовый класс Food. На его основе создать подклассы: Starter,Soup,Salad,MainDish.
+5.
+Cоздать базовый класс FootWear. На его основе создать подклассы: Shoes,Trainers,Boots,HighShoes,Sandals,Slippers.
+
