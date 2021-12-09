@@ -6,4 +6,5 @@ public class Cat extends Animal {
     super(vegatarian, eats, noOflegs);
     this.color = color;
   }
+
 }
